@@ -1,0 +1,14 @@
+2024-04-05T17:14:14,676 [-] [Start Level: Equinox Container: 0e5eb411-3357-44e9-97f5-c11febb8d977]  WARN Digester Match [Server/Service/Engine/Host/Valve] failed to set property [maxDays] to []
+2024-04-05T17:14:33,010 [-] [Framework Event Dispatcher: Equinox Container: 0e5eb411-3357-44e9-97f5-c11febb8d977]  WARN ApplicationManagementServiceComponent Templates directory not found at /home/jospiado/Desktop/wso2am-4.1.0/repository/resources/identity/authntemplates
+2024-04-05T17:15:06,113 [-] [Framework Event Dispatcher: Equinox Container: 0e5eb411-3357-44e9-97f5-c11febb8d977]  WARN SSLUtilBase The trusted certificate with alias [secomscrootca1] and DN [OU=Security Communication RootCA1, O=SECOM Trust.net, C=JP] is not valid due to [NotAfter: Sat Sep 30 01:20:49 BRT 2023]. Certificates signed by this trusted certificate WILL be accepted
+2024-04-05T17:15:06,115 [-] [Framework Event Dispatcher: Equinox Container: 0e5eb411-3357-44e9-97f5-c11febb8d977]  WARN SSLUtilBase The trusted certificate with alias [geotrustglobalca] and DN [CN=GeoTrust Global CA, O=GeoTrust Inc., C=US] is not valid due to [NotAfter: Sat May 21 01:00:00 BRT 2022]. Certificates signed by this trusted certificate WILL be accepted
+2024-04-05T17:21:09,645 [-] [HTTPS-Listener I/O dispatcher-9]  WARN AccessConfiguration Error loading properties from file: access-log.properties
+2024-04-05T17:21:09,650 [-] [HTTPS-Listener I/O dispatcher-9]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2024-04-05T17:21:09,653 [-] [HTTPS-Listener I/O dispatcher-9]  WARN MiscellaneousUtil Error loading properties from a file at from the System defined location: access-log.properties
+2024-04-05T17:21:10,276 [-] [PassThroughMessageProcessor-1]  WARN APIAuthenticationHandler API authentication failure due to Invalid Credentials
+2024-04-05T17:22:40,781 [-] [https-jsse-nio-9443-exec-31] ERROR PostAuthenticationInterceptor Authentication failed: Bearer/Basic authentication header is missing
+2024-04-05T17:22:40,781 [-] [https-jsse-nio-9443-exec-50] ERROR PostAuthenticationInterceptor Authentication failed: Bearer/Basic authentication header is missing
+2024-04-05T17:22:41,036 [-] [https-jsse-nio-9443-exec-40] ERROR PostAuthenticationInterceptor Authentication failed: Bearer/Basic authentication header is missing
+2024-04-05T17:22:53,176 [-] [https-jsse-nio-9443-exec-18] ERROR PostAuthenticationInterceptor Authentication failed: Bearer/Basic authentication header is missing
+2024-04-05T17:22:53,176 [-] [https-jsse-nio-9443-exec-30] ERROR PostAuthenticationInterceptor Authentication failed: Bearer/Basic authentication header is missing
+2024-04-05T17:22:53,389 [-] [https-jsse-nio-9443-exec-35] ERROR PostAuthenticationInterceptor Authentication failed: Bearer/Basic authentication header is missing
